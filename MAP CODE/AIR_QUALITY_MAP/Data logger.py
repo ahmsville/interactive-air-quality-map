@@ -7,7 +7,7 @@ import serial
 from unittest import result
 import requests
 
-apiquery = "https://maps.googleapis.com/maps/api/geocode/json?latlng=latitudehere,longitudehere&key=AIzaSyC8UiVldgTe6MhuLHK6yt5-ZJz6alJu7io"
+apiquery = "https://maps.googleapis.com/maps/api/geocode/json?latlng=latitudehere,longitudehere&key=API KEY HERE"
 
 airqdata = ''
 gpsdata = ''
